@@ -2,3 +2,4 @@
 
 num <- 60 + 9
 num
+kupal si benedicto
